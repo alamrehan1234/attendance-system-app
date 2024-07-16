@@ -5,6 +5,7 @@ scipy
 jupyter
 opencv-python-headless
 streamlit
+streamlit-webrtc
 sklearn
 scikit-learn
 redis
